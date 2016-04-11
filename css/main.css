@@ -30,6 +30,9 @@ h3{
 	font-size: 30px;
 	margin-bottom: 20px;
 }
+h4{
+	font-size: 16px;
+}
 
 li{
 	margin-right: 10px;
@@ -49,4 +52,26 @@ a{
 a:hover{
 	color: #E23C3C;
 }
+.lastet{
+	margin-bottom: 0;
+	margin-top: 30px;
+	color:#3C3C3C;
+}
+.enlace-work{
+	color:#000000;
+}
+.enlace-work:hover{
+	color:black;
+}
 
+input{
+	color:white;
+	width: 100px;
+	height: 30px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	font-weight: bold;
+	margin-top: 20px;
+	border-radius:10px;
+	background-color:#4C4C4C
+}
